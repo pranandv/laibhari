@@ -53,13 +53,13 @@ app.सर्वर_बनवा(3000, () => {
 ```
 
 API Methods
-वापरा(middleware): Adds a middleware function to the application.
-मिळवा(path, handler): Defines a GET route.
-पोस्ट(path, handler): Defines a POST route.
-विनंती_हाताळा(req, res): Handles incoming requests (internal use).
-चुक_हाताळा(err, req, res): Handles errors (internal use).
-सर्वर_बनवा(port, callback): Starts the server on the specified port.
-पहा(message): Logs messages to the console.
+- **वापरा(middleware):** Adds a middleware function to the application.
+- **मिळवा(path, handler):** Defines a GET route.
+- **पोस्ट(path, handler):** Defines a POST route.
+- **विनंती_हाताळा(req, res):** Handles incoming requests (internal use).
+- **चुक_हाताळा(err, req, res):** Handles errors (internal use).
+- **सर्वर_बनवा(port, callback):** Starts the server on the specified port.
+- **पहा(message):** Logs messages to the console.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
