@@ -1,0 +1,33 @@
+{
+  "name": "laibhari",
+  "version": "1.0.5",
+  "description": "A lightweight Node.js framework in Marathi language",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranandv/laibhari.git"
+  },
+  "keywords": [
+    "laibhari",
+    "lai",
+    "bhari",
+    "bhari",
+    "lai",
+    "lai-bhari",
+    "bhari",
+    "lai",
+    "bhari-lai",
+    "bari",
+    "laibari",
+    "lai-bari"
+  ],
+  "author": "Pranand Vathare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranandv/laibhari/issues"
+  },
+  "homepage": "https://github.com/pranandv/laibhari#readme"
+}
